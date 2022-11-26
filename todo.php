@@ -1,5 +1,5 @@
 <?php
-$user = "PHPuser";
+$user = "root";
 $password = "tsdevopsacp";
 $dbhost = 'db';
 $database = "todo_db";
